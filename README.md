@@ -1,7 +1,9 @@
 # Exercise04a-StateMachines
+Began implementing the animation state machine, adding simple animations to a character.
+3/2/2025
 
 ## Implementation
-Which features you included.
+Added a character sprite with walking, jumping, and idle animations.
 
 ## References
 
@@ -12,4 +14,4 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Griffith Hamlin
